@@ -1,12 +1,12 @@
 # Assignment #3
 
-### Due Dates
+## Due Dates
 
 > Section 401: October 23 by end of day
 >
 > Section 402: October 19 by end of day
 
-### Topics covered
+## Topics covered
 
 - geopandas and spatial operations
 - hvplot
